@@ -6,11 +6,11 @@ Repo for scripts and stuff from EPAM devops lab.
 
 ## Task 1 
 ### Installing httpd and apache2
-httpd:
+httpd:  
 ![img 1](./imgs/httpd_s.png)
 ![img 2](./imgs/httpd.png)
 
-apache2:
+apache2:  
 ![img 3](./imgs/apachectl_s.png)
 ![img 4](./imgs/apache2.png)
 
@@ -20,23 +20,23 @@ Graceful restart is a form of server restar./imgs/t, which when applied would ad
 ## Task 2
 ### using vhosts and redirection
 
-Redirect home:
+Redirect home:  
 ![img 5](./imgs/redirect_1.png)
-Redirect /index.html:
+Redirect /index.html:  
 ![img 6](./imgs/redirect_2.png)
 Get forbiden on everything else
 ![img 7](./imgs/redirect_3.png)
 
 ## Task 3
 ### using cronolog
-using cronolog logging:
+using cronolog logging:  
 ![img 8](./imgs/cronolog.png)
 
 ## Task4
 ### using syslog
-sending curl request:
+sending curl request:  
 ![img 9](./imgs/curl.png)
 
-vieving logs:
+vieving logs:  
 ![img 10](./imgs/syslog_files.png)
 
