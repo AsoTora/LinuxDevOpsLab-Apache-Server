@@ -2,6 +2,7 @@
 Repo for scripts and stuff from EPAM devops lab.
 
 # Day 1
+# Overview: see hw_day1.sh file
 
 ## Task 1 
 ### Installing httpd and apache2
@@ -39,4 +40,3 @@ sending curl request:
 vieving logs:
 ![img 10](./imgs/syslog_files.png)
 
-see hw_day1.sh file
