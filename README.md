@@ -22,8 +22,10 @@ Graceful restart is a form of server restar./imgs/t, which when applied would ad
 
 Redirect home:  
 ![img 5](./imgs/redirect_1.png)
+
 Redirect /index.html:  
 ![img 6](./imgs/redirect_2.png)
+
 Get forbiden on everything else
 ![img 7](./imgs/redirect_3.png)
 
