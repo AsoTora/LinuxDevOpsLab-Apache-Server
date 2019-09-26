@@ -15,7 +15,7 @@ apache2:
 ![img 4](./imgs/apache2.png)
 
 ## Check
-Graceful restart is a form of server restar./imgs/t, which when applied would advise server threads to exit when idle, and onl then reload the configuration.
+Graceful restart is a form of server restart, which when applied would advise server threads to exit when idle, and onl then reload the configuration.
 
 ## Task 2
 ### using vhosts and redirection
