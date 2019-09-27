@@ -14,8 +14,10 @@ apache2:
 ![img 3](./imgs/apachectl_s.png)
 ![img 4](./imgs/apache2.png)
 
+
 ## Check
 Graceful restart is a form of server restar./imgs/t, which when applied would advise server threads to exit when idle, and onl then reload the configuration.
+
 
 ## Task 2
 ### using vhosts and redirection
@@ -27,10 +29,12 @@ Redirect /index.html:
 Get forbiden on everything else
 ![img 7](./imgs/redirect_3.png)
 
+
 ## Task 3
 ### using cronolog
 using cronolog logging:  
 ![img 8](./imgs/cronolog.png)
+
 
 ## Task4
 ### using syslog
@@ -41,19 +45,21 @@ vieving logs:
 ![img 10](./imgs/syslog_files.png)
 
 
+
 # Day 2
 ## *For more details see hw_day2.sh file*
 
 ## Task 1 
 ### Using worker mpm 
+There are 50 total.
 ![img 1](./imgs2/ab_worker.png)
 ![img 2](./imgs2/worker.png)
-There are 50 total.
 
 ### Using prefork mpm 
-![img 3](./imgs2/ab_prefork.png)
-![img 4](./imgs2/prefork.png)
 There are 50 total as well.
+![img 3](./imgs2/ab_prefork.png)
+![img 4](./imgs2/prefork.png)  
+
 
 ## Task 2
 ### forward proxy:
