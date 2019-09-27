@@ -59,4 +59,4 @@ vieving logs:
 ![img 5](./imgs2/forward_proxy.png)
 
 ### rewerse proxy
-![img 8](./imgs2/rewerse_proxy.png)
+![img 8](./imgs2/reverse_proxy.png)
