@@ -48,11 +48,12 @@ vieving logs:
 ### Using worker mpm 
 ![img 1](./imgs2/ab_worker.png)
 ![img 2](./imgs2/worker.png)
+There are 50 total.
 
 ### Using prefork mpm 
 ![img 3](./imgs2/ab_prefork.png)
 ![img 4](./imgs2/prefork.png)
-
+There are 50 total as well.
 
 ## Task 2
 ### forward proxy:
