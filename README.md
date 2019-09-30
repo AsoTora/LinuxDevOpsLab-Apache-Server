@@ -59,4 +59,44 @@ vieving logs:
 ![img 5](./imgs2/forward_proxy.png)
 
 ### rewerse proxy
-![img 8](./imgs2/rewerse_proxy.png)
+![img 8](./imgs2/reverse_proxy.png)
+
+
+# Day 3
+## *For more details see hw_day3.sh file*
+
+## Task 1 
+### set up 3 VM with tomcat server
+![img 1](./imgs3/tomcat.png)
+![img 2](./imgs3/manager.png)
+
+### file test.jsp:  
+![img 0](./imgs3/test1.png)
+![img 0](./imgs3/test2.png)
+![img 0](./imgs3/test3.png)
+
+### deployment of clusterjsp.war
+![img 3](./imgs3/deploy2.png)
+![img 4](./imgs3/deploy3.png)
+  
+cluster on vm1:  
+![img 5](./imgs3/cluster1.png)
+
+cluster on vm2:  
+![img 6](./imgs3/cluster2.png)
+
+cluster on vm3:  
+![img 7](./imgs3/cluster3.png)
+
+## Task 2
+### cluster balancer:
+![img 8](./imgs3/balancer.png)
+
+config files:  
+![img 9](./imgs3/vhosts.png)
+![img 10](./imgs3/workers.png)
+
+
+## Task 3
+### Log4j2 on tomcat1
+![img 11](./imgs3/logs.png)
